@@ -2,7 +2,12 @@
   "name": "neumatter-theme",
   "displayName": "neumatter theme",
   "description": "Legible color theme with pink, purple, blue, orange, yellow.",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "cal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clyng57/neumatter-theme"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
